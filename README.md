@@ -1,6 +1,6 @@
 # Home Backup Tool
 
-Lightweight backup utilites that backups your important .It tracks file changes using SHA-256 hashes and only uploads new or modified files.
+Lightweight backup utilites that backups your important files.
 
 ---
 
