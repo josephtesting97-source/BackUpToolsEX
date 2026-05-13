@@ -1,6 +1,6 @@
 # Home Backup Tool
 
-Lightweight backup utilites that backups your important files.
+Lightweight backup utilites that backups your important files to your local server.
 
 ---
 
