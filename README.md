@@ -12,6 +12,11 @@ Lightweight backup utilites that backups your important files.
 
 ---
 
-License
+## How to use
+- Run each one of them in their own sub session 
+
+---
+
+## License
 
 MIT License
